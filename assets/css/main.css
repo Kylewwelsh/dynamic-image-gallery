@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  background-color: whitesmoke;
+  height: 100vh;
+}
+/* Color and Image for top banner */
+.banner {
+  display: flex;
+  justify-content: center;
+
+  background-color: red;
+
+  width: 100%;
+  height: 2.5rem;
+
+  margin: 0rem 0rem 2rem 0rem;
+ 
+  animation: fadein 2s;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+/* List elements for icons */
+li {
+  list-style-type: none;
+  display: inline;
+  margin: 0rem 1rem 0rem 1rem
+}
+
+/* title in header */
+.main-title {
+  padding: 0rem 0rem 2rem;
+}
+
+.gallery {
+  display: flex;
+  flex-flow: row wrap; 
+  justify-content: center;
+}
+
+footer {
+  background-color: red;
+  margin: 2rem 0rem 0rem 0rem;
+  height: 1.75rem;
+}
+
+/* Banner fade in animation */
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
