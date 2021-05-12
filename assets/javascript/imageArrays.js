@@ -14,7 +14,7 @@ export const images = [
   {
     link: 'https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbrad.herman.549%2Fposts%2F10154922286735895&width=500&show_text=false&height=504&appId',
     width: 320,
-    height: 510,
+    height: 310,
     frameBorder: 0,
     scrolling: 'no',
     transparency: true
@@ -32,7 +32,7 @@ export const images = [
   {
     link: 'https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto%3Ffbid%3D10215345442209239%26set%3Dpcb.10215345443369268&width=500&show_text=false&height=498&appId',
     width: 320,
-    height: 510,
+    height: 310,
     frameBorder: 0,
     scrolling: 'no',
     transparency: true
@@ -50,7 +50,7 @@ export const images = [
   {
     link: 'https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D10211854595140244%26set%3Dpb.1231464326.-2207520000..%26type%3D3&width=500&show_text=false&height=371&appId',
     width: 320,
-    height: 510,
+    height: 210,
     frameBorder: 0,
     scrolling: 'no',
     transparency: true
@@ -68,7 +68,7 @@ export const images = [
   {
     link: 'https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto%2F%3Ffbid%3D10212706241590873%26set%3Da.1655181779357&width=500&show_text=true&height=498&appId',
     width: 320,
-    height: 510,
+    height: 310,
     frameBorder: 0,
     scrolling: 'no',
     transparency: true

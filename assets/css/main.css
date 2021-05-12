@@ -48,6 +48,20 @@ footer {
   height: 1.75rem;
 }
 
+.gallery {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+figure {
+  margin: 1rem;
+}
+
+figure:hover {
+  transition: 0.3s;
+  transform: scale(1.1);
+}
+
 /* Banner fade in animation */
 @keyframes fadein {
   from {
